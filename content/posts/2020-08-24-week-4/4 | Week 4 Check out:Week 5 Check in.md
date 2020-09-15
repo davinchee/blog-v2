@@ -1,17 +1,23 @@
-# TIY series: Week 3 Check out/Week 4 Check in
+---
+title: TIY - Week 4 Check out | Week 5 Check in
+author: Vincent Chee
+date: 2020-08-24
+hero: ./images/hero.jpg
+excerpt: Anotha one.
+---
 
 Let’s jump straight into it.
 
 Lessons
 
-*Lesson #1 — Put out positive vibes.*
+_Lesson #1 — Put out positive vibes._
 
 - This is something that I have realized that I don’t do nearly enough. I don’t go around spreading negative energy, however I don’t make a conscious enough effort to spread positive energy. If anything I likely have a very monotone and dull energy.
 
-*Lesson #2 — Plan your life via a 10 year plan.*
+_Lesson #2 — Plan your life via a 10 year plan._
 
 - This past week I have had several conversations with friends discussing what I will be doing after I leave NY in September and to be honest I haven’t really thought much about it. I am focused on improving and learning, but I still don’t have a sense of direction.
-- I think it is important to think about where you want to be on a longer term timeframe because it can be very easy to get caught up in short term cycles and you never 
+- I think it is important to think about where you want to be on a longer term timeframe because it can be very easy to get caught up in short term cycles and you never
 
 Week 4 Check Out
 
@@ -57,7 +63,7 @@ Score: 8/9
 
 Score: 3 / 7
 
-Overall: 11 / 16 
+Overall: 11 / 16
 
 Goods
 
@@ -109,6 +115,6 @@ So I hit most of my maintenance habits last week and the only one I broke was tu
 
 []Meditate every day for at least 10 minutes
 
-[]Finish Cryptocred YouTube course on TA, KoroushAK intro to trading, read the study guide too, rewatch videos you don’t understand 
+[]Finish Cryptocred YouTube course on TA, KoroushAK intro to trading, read the study guide too, rewatch videos you don’t understand
 
 []Complete Mark Manson Build a Life Course

@@ -1,4 +1,10 @@
-# TIY series: Week 3 Check out/Week 4 Check in
+---
+title: TIY - Week 3 Check out/Week 4 Check in
+author: Vincent Chee
+date: 2020-08-16
+hero: ./images/hero.jpg
+excerpt: Lots of failure this week.
+---
 
 "Maybe you don’t have a manager for your goal in life, but you kinda have to think about it as your own manager, you gotta think what do I really want to do? and are the steps I am taking, taking me closer to that, and if not what the fuck do I need to do differently?” - Joe Rogan (paraphrasing)
 
@@ -6,23 +12,23 @@ You are gonna see a lot of failure this week… But, like I said before, it’s 
 
 Lessons
 
-*Lesson #1 — Implement some sort of data collection system for your life.*
+_Lesson #1 — Implement some sort of data collection system for your life._
 
 - This might not be something everyone is comfortable with/it might seem a bit obsessive. But I want to start taking data collection to a whole other level. As time goes by and you get more data, you will be able to see patterns and trends and you’ll be able to adjust accordingly as long as you know where you want to go.
 
-*Lesson #2 — Adaptability is the most important skill.*
+_Lesson #2 — Adaptability is the most important skill._
 
 - The most important skill for any organism to thrive in its environment is its ability to adapt to their environment and forces outside of their control. We currently live in a world that is changing at an ever-increasing rate due to the force of technology. Being able to adapt to this environment is necessary in order to thrive.
 
-*Lesson #3 — Be mindful.*
+_Lesson #3 — Be mindful._
 
 - Try to remind yourself to be mindful throughout the day. What does this mean? Ask yourself how you are feeling, be aware of the thoughts running through your head, check in with yourself. Meditating helps improve your ability to do this better.
 
-*Lesson #4 — Only use what is useful for you.*
+_Lesson #4 — Only use what is useful for you._
 
 - I’ve provided a lot of lessons here which are things I’ve found along my personal journey that I currently believe in or help me navigate the world. They might not work for you, other things from other people might not either. Learn what works for YOU, throw out the rest.
 
-*Lesson #5 — Be multidimensional.* 
+_Lesson #5 — Be multidimensional._
 
 - It’s important to be a complete person. I am guilty of being pretty one dimensional at times as I can have a pretty obsessive personality. As a result, I have to remind myself to balance my time.
 
@@ -50,7 +56,7 @@ Overall Summary:
 
 []Turn off all devices/lights by 10:30PM
 
-[x]Write down any todo’s on a central todo app: Todoist 
+[x]Write down any todo’s on a central todo app: Todoist
 
 Score: 6 / 10
 
@@ -126,6 +132,6 @@ For the next week, I want to hit every single maintenance habit before I dig mys
 
 ## Bads+Solution
 
-- Uhhh… So I have to admit that I was very inconsistent this week. Most of  these things I missed one or two days, so that’s not too serious because it wasn’t for many days in a row.
+- Uhhh… So I have to admit that I was very inconsistent this week. Most of these things I missed one or two days, so that’s not too serious because it wasn’t for many days in a row.
 - Solution: aim to reach all your maintenance habits
 - Things to focus more on: coding, mandarin, reading
