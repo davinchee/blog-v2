@@ -1,33 +1,35 @@
+require("dotenv").config();
+
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `davinchee`,
+    name: `le blog de davinchee`,
+    siteUrl: `https://davinchee.dev/`,
+    description: `Vincent Chee's blog which contains posts and insights and whatnot.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `hello world. welcome to le blog.`,
       maxWidth: 652,
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
+        name: `mailto`,
+        url: `mailto:khvincentchee@gmail.com`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
-      },
-      {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://github.com/davinchee`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/vincent-kh-chee/`,
       },
       {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        name: `medium`,
+        url: `https://medium.com/@dahvinchee`,
+      },
+      {
+        name: `buymeacoffee`,
+        url: `https://www.buymeacoffee.com/davinchee`,
       },
     ],
   },
@@ -54,13 +56,12 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
-        icon: `src/assets/favicon.png`,
+        icon: `src/assets/favicon.ico`,
       },
     },
     {
       resolve: `gatsby-plugin-netlify-cms`,
-      options: {
-      },
+      options: {},
     },
   ],
 };

@@ -1,0 +1,11 @@
+name: Vincent Chee
+bio: |
+  hello world. i am a hacker passionate about using technology to reduce inefficiency.
+avatar: ./avatars/vincent-chee.jpg
+social:
+  - url: https://www.linkedin.com/in/vincent-kh-chee/
+  - url: https://github.com/davinchee
+  - url: https://medium.com/@dahvinchee
+  - url: https://twitter.com/thavinchee
+  - url: https://www.buymeacoffee.com/davinchee
+featured: true
