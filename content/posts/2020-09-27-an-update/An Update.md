@@ -47,4 +47,4 @@ Some of the things that I'm doing to keep myself busy during the quarantine/main
 - Some super smash
 - YouTube/Instagram/Netflix: mellow out time to just relax
 
-Although I have faced a lot of adversity this year and my life has changed drastically, I am simultaneously sad that I am longer in the US, but also excited for what other opportunities are on the other side.
+Although I have faced a lot of adversity this year and my life has changed drastically, I am simultaneously sad that I am longer in the US with the people I love, but also excited for what other opportunities are on the other side.
